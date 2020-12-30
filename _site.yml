@@ -77,7 +77,7 @@ navbar:
       href: bonus.html
   right:
     - icon: fa-github
-      href: https://github.com/uopsych/psy612_2020
+      href: https://github.com/uopsych/psy612_2020/
 output:
   html_document:
     lib_dir: site_libs
